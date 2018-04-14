@@ -1,2 +1,2 @@
-# ambertreebakes.github.io
-My Website
+# Adam Blog is a minimal clear theme for Jekyll
+
